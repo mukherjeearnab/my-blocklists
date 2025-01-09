@@ -1,17 +1,17 @@
 ! Streaming Blocklist
 
 ! Netflix Blocker
-(\.|^)netflix\.com$
-(\.|^)nflximg\.net$
-(\.|^)nflxext\.com$
-(\.|^)nflxso\.net$
+||netflix.com^
+||nflximg.net^
+||nflxext.com^
+||nflxso.net^
 
 ! Amazon Prime Video Blocker
-(\.|^)primevideo\.com$
-(\.|^)aiv-cdn\.net$
-(\.|^)prime-video\.amazon\.dev$
-(\.|^)akamaihd\.net$
-(\.|^)amazonvideo\.com$
+||primevideo.com^
+||aiv-cdn.net^
+||prime-video.amazon.dev^
+||akamaihd.net^
+||amazonvideo.com^
 
 ! Hotstar
-(\.|^)hotstar\.com$
+||hotstar.com^
