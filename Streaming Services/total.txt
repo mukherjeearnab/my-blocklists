@@ -2,6 +2,9 @@
 
 ! Netflix Blocker
 (\.|^)netflix\.com$
+(\.|^)nflximg\.net$
+(\.|^)nflxext\.com$
+(\.|^)nflxso\.net$
 
 ! Amazon Prime Video Blocker
 (\.|^)primevideo\.com$
