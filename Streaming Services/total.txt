@@ -1,0 +1,14 @@
+! Streaming Blocklist
+
+! Netflix Blocker
+(\.|^)netflix\.com$
+
+! Amazon Prime Video Blocker
+(\.|^)primevideo\.com$
+(\.|^)aiv-cdn\.net$
+(\.|^)prime-video\.amazon\.dev$
+(\.|^)akamaihd\.net$
+(\.|^)amazonvideo\.com$
+
+! Hotstar
+(\.|^)hotstar\.com$
